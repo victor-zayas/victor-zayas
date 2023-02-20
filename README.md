@@ -9,9 +9,9 @@
     
   ### :crab: My Stats :
   
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=victor-zayas&theme=radical&background=000000)](https://git.io/streak-stats)
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=victor-zayas&theme=tokyonight)](https://git.io/streak-stats)
   
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victor-zayas&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victor-zayas&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
   </div>
 <!--
 
