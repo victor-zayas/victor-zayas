@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="" width="400"/>
+  <img src="https://avatars.githubusercontent.com/u/30567828?v=4" width="400"/>
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/victor-zayas-salvarrey/">
